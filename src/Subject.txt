@@ -1,0 +1,16 @@
+Code: 060223120 Subject: COMPUTER ARCHITECTURE AND Credit: 3
+Code: 060223121 Subject: INFORMATION TECHNOLOGY PROJE Credit: 1
+Code: 080103062 Subject: PRACTICAL ENGLISH II Credit: 3
+Code: 060223115 Subject: SYSTEM ANAKYSIS AND DESIGN Credit: 3
+Code: 060223116 Subject: OBJECT-ORIENTED PROGRAMMING Credit: 3
+Code: 060223117 Subject: OBJECT-ORIENTED PROGRAMMING Credit: 1
+Code: 060223118 Subject: WEB APPLICATION DEVELOPMENT Credit: 3
+Code: 060223123 Subject: COMPUTER ARCHITECTURE AND Credit: 3
+Code: 060223110 Subject: Basic Computer Skill Credit: 2
+Code: 040203123 Subject: Discrete Mathematics and Application Credit: 3
+Code: 060223111 Subject: Digital Electronics Credit: 3
+Code: 060223112 Subject: Digital Electronics Laboratory Credit: 3
+Code: 060223113 Subject: Structural Programming Credit: 1
+Code: 060223114 Subject: Structural Programming Laboratory Credit: 3
+Code: 060223119 Subject: Database System Credit: 3
+Code: 080103061 Subject: Practical English I Credit: 2

@@ -1,0 +1,19 @@
+code: 6306021410030 title: นาย name: ธนกิต lname: ทรัพย์ประกอบ Subject SYSTEM ANAKYSIS AND DESIGN Credit: 3 Section: 1 day: Thursday time: 09.00-12.00 people: 40
+code: 6306021410030 title: นาย name: ธนกิต lname: ทรัพย์ประกอบ Subject OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 1 day: Monday time: 09.00-12.00 people: 40
+code: 6306021410030 title: นาย name: ธนกิต lname: ทรัพย์ประกอบ Subject Database System Credit: 3 Section: 1 day: Wednesday time: 13.00-16.00 people: 40
+code: 6306021410021 title: นาย name: ธนกร  lname: คล้ายสุรินทร์ Subject SYSTEM ANAKYSIS AND DESIGN Credit: 3 Section: 1 day: Thursday time: 09.00-12.00 people: 40
+code: 6306021410021 title: นาย name: ธนกร  lname: คล้ายสุรินทร์ Subject OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 2 day: Monday time: 13.00-16.00 people: 40
+code: 6306021410021 title: นาย name: ธนกร  lname: คล้ายสุรินทร์ Subject COMPUTER ARCHITECTURE AND Credit: 3 Section: 3 day: Wednesday time: 09.00-12.00 people: 40
+code: 6306021410021 title: นาย name: ธนกร  lname: คล้ายสุรินทร์ Subject Basic Computer Skill Credit: 2 Section: 3 day: Tuesday time: 13.00-16.00 people: 40
+code: 6306021420191 title: นางสาว name: ภัทรวดี lname: อินทรพยุง Subject OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 1 day: Monday time: 09.00-12.00 people: 40
+code: 6306021420191 title: นางสาว name: ภัทรวดี lname: อินทรพยุง Subject Code: 060223110 Basic Computer Skill Credit: 2 Section: 1 day: Thursday time: 09.00-12.00 people: 40
+code: 6306021420191 title: นางสาว name: ภัทรวดี lname: อินทรพยุง Subject Discrete Mathematics and Application Credit: 3 Section: 2 day: Wednesday time: 09.00-12.00 people: 30
+code: 6306021420191 title: นางสาว name: ภัทรวดี lname: อินทรพยุง Subject Digital Electronics Credit: 3 Section: 3 day: Friday time: 09.00-12.00 people: 30
+code: 6306021420035 title: นาย name: บุณยวัทน์ lname: บุญห่อ Subject SYSTEM ANAKYSIS AND DESIGN Credit: 3 Section: 1 day: Thursday time: 09.00-12.00 people: 40
+code: 6306021420035 title: นาย name: บุณยวัทน์ lname: บุญห่อ Subject OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 2 day: Monday time: 13.00-16.00 people: 40
+code: 6306021420035 title: นาย name: บุณยวัทน์ lname: บุญห่อ Subject Discrete Mathematics and Application Credit: 3 Section: 3 day: Friday time: 13.00-16.00 people: 30
+code: 6306021410030 title: นาย name: ธนกิต lname: ทรัพย์ประกอบ Subject Digital Electronics Credit: 3 Section: 3 day: Wednesday time: 09.00-12.00 people: 30
+code: 6306021420167 title: นาย name: ธาดา lname: สิริบุญมโน Subject OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 1 day: Monday time: 09.00-12.00 people: 40
+code: 6306021420167 title: นาย name: ธาดา lname: สิริบุญมโน Subject COMPUTER ARCHITECTURE AND Credit: 3 Section: 3 day: Wednesday time: 09.00-12.00 people: 40
+code: 6306021410030 title: นาย name: ธนกิต lname: ทรัพย์ประกอบ Subject INFORMATION TECHNOLOGY PROJE Credit: 1 Section: 1 day: Friday time: 09.00-12.00 people: 40
+code: 6306021410030 title: นาย name: ธนกิต lname: ทรัพย์ประกอบ Subject WEB APPLICATION DEVELOPMENT Credit: 3 Section: 1 day: Friday time: 13.00-16.00 people: 30

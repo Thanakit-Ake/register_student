@@ -1,0 +1,14 @@
+code: 6306021410030 title: นาย name: ธนกิต lname: ทรัพย์ประกอบ
+code: 6306021410021 title: นาย name: ธนกร  lname: คล้ายสุรินทร์
+code: 6306021420035 title: นาย name: บุณยวัทน์ lname: บุญห่อ
+code: 6306021420191 title: นางสาว name: ภัทรวดี lname: อินทรพยุง
+code: 6306021420167 title: นาย name: ธาดา lname: สิริบุญมโน
+code: 6306021410048 title: นางสาว name: ปณิดา lname: จำนงบุญ
+code: 6306021416985 title: นาย name: ปภังกร lname: เนื้อนิ่ม
+code: 6306021452214 title: นางสาว name: ศริยาพร lname: คงใย
+code: 6306021458795 title: นาย name: วรชิร lname: แหนมยิ่ม
+code: 6360214785514 title: นาย name: ธิติพงษ์ lname: สุภานิชิ
+code: 6306021417789 title: นาย name: ณัฐวุฒิ lname: น้ำใจดี
+code: 6306021416685 title: นาย name: ณัฐวุติ lname: ชูสกุล
+code: 6306021415525 title: นางสาว name: รุธิรา lname: มะลิทอง
+code: 6525415253698 title: นาย name: ธิตุพงษ์ lname: สุภานิชิ

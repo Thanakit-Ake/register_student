@@ -1,0 +1,36 @@
+name: ผศ.พีระศักดิ์ เสรีกุลพีระศักดิ์ เสรีกุล Subject: SYSTEM ANAKYSIS AND DESIGN Credit: 3 Section: 1 day: Thursday time: 09.00-12.00 people: 40
+name: ผศ.นพดล บูรณ์กุศล Subject: OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 1 day: Monday time: 09.00-12.00 people: 40
+name: ผศ.นพดล บูรณ์กุศล Subject: OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 2 day: Monday time: 13.00-16.00 people: 40
+name: ผศ.นพดล บูรณ์กุศล Subject: OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 3 day: Friday time: 13.00-16.00 people: 40
+name: ผศ.นิมิต ศรีคำท Subject: COMPUTER ARCHITECTURE AND Credit: 3 Section: 1 day: Thursday time: 09.00-12.00 people: 40
+name: ผศ.นิมิต ศรีคำท Subject: COMPUTER ARCHITECTURE AND Credit: 3 Section: 3 day: Wednesday time: 09.00-12.00 people: 40
+name: ผศ.ดร.พาฝัน ดวงไพศาล Subject: Code: 060223119 Database System Credit: 3 Section: 1 day: Tuesday time: 09.00-12.00 people: 40
+name: ผศ.ดร.พาฝัน ดวงไพศาล Subject: Code: 060223119 Database System Credit: 3 Section: 1 day: Wednesday time: 13.00-16.00 people: 40
+name: ผศ.ดร.พาฝัน ดวงไพศาล Subject: Code: 060223119 Database System Credit: 3 Section: 1 day: Thursday time: 09.00-12.00 people: 40
+name: ผศ.สุปีติ กุลจันทร์ Subject: Code: 060223110 Basic Computer Skill Credit: 2 Section: 1 day: Thursday time: 09.00-12.00 people: 40
+name: ผศ.สุปีติ กุลจันทร์ Subject: Code: 060223110 Basic Computer Skill Credit: 2 Section: 2 day: Wednesday time: 13.00-16.00 people: 40
+name: ผศ.สุปีติ กุลจันทร์ Subject: Code: 060223110 Basic Computer Skill Credit: 2 Section: 3 day: Tuesday time: 13.00-16.00 people: 40
+name: ผศ.นิติการ นาคเจือทอง Subject: OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 1 day: Tuesday time: 13.00-16.00 people: 40
+name: ผศ.นิติการ นาคเจือทอง Subject: OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 2 day: Monday time: 09.00-12.00 people: 40
+name: ผศ.นิติการ นาคเจือทอง Subject: OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 3 day: Wednesday time: 09.00-12.00 people: 40
+name: รศ.ดร.ยุพิน สรรพคุณ Subject: Digital Electronics Credit: 3 Section: 3 day: Wednesday time: 09.00-12.00 people: 30
+name: รศ.ดร.ยุพิน สรรพคุณ Subject: Digital Electronics Credit: 3 Section: 3 day: Friday time: 09.00-12.00 people: 30
+name: รศ.ดร.ยุพิน สรรพคุณ Subject: Digital Electronics Credit: 3 Section: 1 day: Thursday time: 09.00-12.00 people: 30
+name: ดร.ศรายุทธ ธเนศสกุลวัฒนา Subject: Discrete Mathematics and Application Credit: 3 Section: 3 day: Friday time: 13.00-16.00 people: 30
+name: ดร.ศรายุทธ ธเนศสกุลวัฒนา Subject: Discrete Mathematics and Application Credit: 3 Section: 2 day: Wednesday time: 09.00-12.00 people: 30
+name: อ.นพเก้า ทองใบ Subject: WEB APPLICATION DEVELOPMENT Credit: 3 Section: 1 day: Monday time: 09.00-12.00 people: 30
+name: อ.นพเก้า ทองใบ Subject: WEB APPLICATION DEVELOPMENT Credit: 3 Section: 1 day: Tuesday time: 13.00-16.00 people: 30
+name: อ.นพเก้า ทองใบ Subject: WEB APPLICATION DEVELOPMENT Credit: 3 Section: 1 day: Wednesday time: 09.00-12.00 people: 30
+name: อ.นพเก้า ทองใบ Subject: WEB APPLICATION DEVELOPMENT Credit: 3 Section: 1 day: Friday time: 13.00-16.00 people: 30
+name: อ.นพเก้า ทองใบ Subject: WEB APPLICATION DEVELOPMENT Credit: 3 Section: 1 day: Tuesday time: 09.00-12.00 people: 30
+name: ผศ.นพดล บูรณ์กุศล Subject: OBJECT-ORIENTED PROGRAMMING Credit: 3 Section: 1 day: Tuesday time: 09.00-12.00 people: 40
+name: ผศ.นพดล บูรณ์กุศล Subject: OBJECT-ORIENTED PROGRAMMING Credit: 3 Section: 1 day: Tuesday time: 13.00-16.00 people: 40
+name: ผศ.นพดล บูรณ์กุศล Subject: OBJECT-ORIENTED PROGRAMMING Credit: 3 Section: 2 day: Thursday time: 09.00-12.00 people: 40
+name: ผศ.นพดล บูรณ์กุศล Subject: OBJECT-ORIENTED PROGRAMMING Credit: 3 Section: 3 day: Thursday time: 13.00-16.00 people: 40
+name: ผศ.นพดล บูรณ์กุศล Subject: OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 3 day: Wednesday time: 13.00-16.00 people: 40
+name: ผศ.นพดล บูรณ์กุศล Subject: OBJECT-ORIENTED PROGRAMMING Credit: 1 Section: 3 day: Wednesday time: 09.00-12.00 people: 40
+name: สมชาย มีรัก Subject: INFORMATION TECHNOLOGY PROJE Credit: 1 Section: 1 day: Monday time: 09.00-12.00 people: 40
+name: สมชาย มีรัก Subject: INFORMATION TECHNOLOGY PROJE Credit: 1 Section: 2 day: Monday time: 13.00-16.00 people: 40
+name: สมชาย มีรัก Subject: INFORMATION TECHNOLOGY PROJE Credit: 1 Section: 3 day: Tuesday time: 13.00-16.00 people: 40
+name: เาเาเ ดหฟดหฟ Subject: COMPUTER ARCHITECTURE AND Credit: 3 Section: 1 day: Tuesday time: 09.00-12.00 people: 20
+name: ผศ.นพดล บูรณ์กุศล Subject: INFORMATION TECHNOLOGY PROJE Credit: 1 Section: 1 day: Friday time: 09.00-12.00 people: 40
